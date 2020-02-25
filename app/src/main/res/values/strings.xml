@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">DataBindingDemo</string>
+
+
+    <string-array name="names">
+        <item>Arun Chandravanshi</item>
+        <item>Pravesh Kumar</item>
+        <item>Ranu Deshmuk</item>
+        <item>Neelam Roy</item>
+        <item>Nikita Desai</item>
+        <item>Mohan Bhatiya</item>
+        <item>Anikesh Danial</item>
+        <item>Chris Danial </item>
+        <item>Koshiki Chandravanshi</item>
+        <item>Neha pandey</item>
+
+
+    </string-array>
+
+    <string-array name="emails">
+
+        <item>arun11@gmail.com</item>
+        <item>pravesh12@gmail.com</item>
+        <item>ranu13@gmail.com</item>
+        <item>neelam14@gmail.com</item>
+        <item>nikita15@gmail.com</item>
+        <item>mohan16@gmail.com</item>
+        <item>anikesh17@gmail.com</item>
+        <item>chris18@gmail.com</item>
+        <item>koshiki19@gmail.com</item>
+        <item>neha20@gmail.com</item>
+
+
+    </string-array>
+
+</resources>
